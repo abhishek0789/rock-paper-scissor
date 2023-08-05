@@ -96,7 +96,7 @@ function decision() {
     }
   }
 
-  let announce = "computer choice is " + computerChoice + " and your choice is " + input + " so you " + result;
+  let announce = "computer choice is " + computerChoice + " and your choice is " + input + " so game " + result;
 
   document.getElementById("ans").innerText = announce;
 }
