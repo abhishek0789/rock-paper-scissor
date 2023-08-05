@@ -1,0 +1,88 @@
+html {
+
+  height: 100%;
+  width: 100%;
+  font-size: 4rem;
+  text-align: center;
+}
+
+#ans {
+  color: #70c9db;
+  padding-top: 40px;
+  padding: 10px;
+}
+
+* {
+  font-family: 'Noto Sans Symbols', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  color: #e0e0e0;
+  background: #1b0087;
+}
+
+#choice {
+  text-align: center;
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+  padding-top: 35px
+}
+
+#rock_id {
+  padding: 35px;
+
+}
+
+#paper_id {
+  padding: 35px;
+
+}
+
+#scissor_id {
+  padding: 35px;
+
+}
+
+header {
+  background-color: #160042;
+  color: #d4d4d4;
+
+  justify-content: space-around;
+  display: flex;
+  height: 100px;
+}
+
+#head {
+  background-color: #160042;
+  color: #d4d4d4;
+  padding-top: 8px;
+}
+
+footer {
+  text-align: center;
+  background-color: #1b0087;
+  color: #d4d4d4;
+  font-size: 0.3rem;
+  padding-top: 1200px;
+  padding-bottom: 10px;
+}
+
+#tail {
+  text-align: center;
+}
+
+#foot {
+
+  text-align: center;
+  text-decoration: none;
+}
+
+.again {
+  text-align: center;
+  font-size: 0.7rem;
+  padding-top: 100px;
+  height: 40px;
+}
+
+#image {
+  height: 230px;
+}
