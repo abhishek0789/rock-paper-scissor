@@ -1,4 +1,4 @@
-let x = Math.random() * 2
+let x = Math.random() * 3
 let result;
 let actualx = Math.trunc(x)
 let input;
